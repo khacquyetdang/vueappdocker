@@ -38,3 +38,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 https://levelup.gitconnected.com/deploying-your-ui-applications-using-docker-and-nginx-b65ffa8f744e
 https://github.com/40x/httpclient/blob/docker-nginx/Dockerfile
+
+# Tutorial with video
+
+https://www.youtube.com/watch?v=GyJBRS9A1Jw&list=PLoLxxy-LpmJb3eZMbb3J3-WSeE-ka_vC-&index=4
