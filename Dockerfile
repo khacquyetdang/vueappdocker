@@ -7,8 +7,7 @@ ADD package*.json /tmp/
 RUN cd /tmp && yarn install
 
 RUN mkdir -p /usr/src/app && cp -a /tmp/node_modules /usr/src/app
-# copy project files and folders to the current working directory (i.e. 'app' folder)
-COPY . .
+
 
 WORKDIR /usr/src/app
 
